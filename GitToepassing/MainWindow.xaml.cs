@@ -24,5 +24,11 @@ namespace GitToepassing
         {
             InitializeComponent();
         }
+
+        private void btnToonBerichten_Click(object sender, RoutedEventArgs e)
+        {
+            lstBerichten.Items.Add("Welkom !");
+            lstBerichten.Items.Add("Welcome !");            
+        }
     }
 }
