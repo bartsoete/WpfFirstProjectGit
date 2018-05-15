@@ -33,6 +33,7 @@ namespace GitToepassing
             lstBerichten.Items.Add("Wilcommen !");
             lstBerichten.Items.Add("Benvenuto !");
             lstBerichten.Items.Add("Welgekomen !");
+            lstBerichten.Items.Add("Kom er maar in !");
         }
     }
 }
